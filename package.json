@@ -1,0 +1,20 @@
+{
+  "name": "asterix-web-app.node-js",
+  "version": "0.0.0",
+  "description": "AsterixWebApp.NodeJs",
+  "main": "server.js",
+  "author": {
+    "name": "idan.harash"
+  },
+  "dependencies": {
+    "asterisk-manager": "^0.1.16",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "express": "^4.16.3",
+    "helmet": "^3.12.1",
+    "morgan": "^1.9.0",
+    "nconf": "^0.10.0",
+    "serve-favicon": "^2.5.0",
+    "socket.io": "^2.1.0"
+  }
+}

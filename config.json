@@ -1,0 +1,23 @@
+{
+  "test": "test",
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "http": {
+    "port": 3001
+  },
+  "asterisk": {
+    "port": 5038,
+    "host": "10.10.15.8",
+    "userName": "idan",
+    "password": "2ntd9CRppz3vZHz5"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
